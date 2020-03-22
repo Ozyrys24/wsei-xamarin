@@ -12,6 +12,7 @@ namespace AirMonitor
             InitializeComponent();
 
             MainPage = new MainPage();
+            //
         }
 
         protected override void OnStart()
